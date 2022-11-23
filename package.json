@@ -1,0 +1,29 @@
+{
+  "name": "@mostafanaghipoor/lotide",
+  "version": "1.0.0",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mostafa-Naghipoor/lotide.git"
+  },
+  "author": "Mostafa Naghipoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mostafa-Naghipoor/lotide/issues"
+  },
+  "homepage": "https://github.com/Mostafa-Naghipoor/lotide#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^9.2.2"
+  },
+  "dependencies": {
+    "my-package": "0.0.0"
+  },
+  "description": "A mini clone of the [Lodash](https://lodash.com) library."
+}
